@@ -1,2 +1,3 @@
 # Fair Federated Learning
-1. Ken Liu, Virginia Smith, 2023 On Privacy and Personalization in Federated Learning: A Retrospective on the US/UK PETs Challenge, [blog](https://blog.ml.cmu.edu/2023/05/12/on-privacy-and-personalization-in-federated-learning-a-retrospective-on-the-us-uk-pets-challenge/).
+1. Huili Chen, 2022. Personalized federated learning for a better customer experience [blog](https://www.amazon.science/blog/personalized-federated-learning-for-a-better-customer-experience).
+2. Ken Liu, Virginia Smith, 2023. On Privacy and Personalization in Federated Learning: A Retrospective on the US/UK PETs Challenge, [blog](https://blog.ml.cmu.edu/2023/05/12/on-privacy-and-personalization-in-federated-learning-a-retrospective-on-the-us-uk-pets-challenge/).
